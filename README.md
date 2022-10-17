@@ -37,8 +37,7 @@
 
 ****
 
-# SCREENSHOTS & SDLC Diagrams :
-- ### Testing Outputs:
+# SCREENSHOTS:
 <p align="center">
   <img width = 1000 src="Images/1.jpg" /><br>
   <img width = 1000 src="Images/2.jpg" /><br>
@@ -46,13 +45,18 @@
   <img width = 1000 src="Images/4.jpg" /><br>
   <img width = 1000 src="Images/5.jpg" /><br>
 </p>
-# 
-- ### Structural Diagram:
+
+****
+
+# Structural Diagram:
 <p align="center">
   <img width = 1000 src="Images/6.png" /><br>
 </p>
-# 
-- ### Behavioural Diagram:
+
+
+****
+
+# Behavioural Diagram:
 <p align="center">
   <img width = 1000 src="Images/7.png" /><br>
   <img width = 1000 src="Images/8.jpg" /><br>
