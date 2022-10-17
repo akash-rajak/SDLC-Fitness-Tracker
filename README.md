@@ -12,6 +12,15 @@
 
 ****
 
+# SDLC Model Used :
+- ### Iterative Waterfall Model
+<p align="center">
+  <img width = 1000 src="Images/0.jpg" /><br>
+</p>
+
+
+****
+
 # HOW TO Use it :
 - ### User just need to download the file, and run the Fitness_tracker.py, on local system.
 - ### At start, user will be asked to enter the username and password as login and signup details.
@@ -28,7 +37,7 @@
 
 ****
 
-# SCREENSHOTS :
+# SCREENSHOTS & SDLC Diagrams :
 ****
 
 <p align="center">
